@@ -1,0 +1,17 @@
+__pycache__/
+secrets.json
+.venv
+venv
+.envrc
+/media
+migrations/*
+/static/robots.txt
+/vars.yml
+*.sqlite3
+node_modules/
+package-lock.json
+apps/static/pix2
+assets/
+static/
+static_collected/
+/dist/
